@@ -1,0 +1,4 @@
+good databases to use:
+1. facial expression recognition challenge
+2. extended cohn-kanade
+3. radbound faces database
